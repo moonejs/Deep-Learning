@@ -25,12 +25,14 @@
             "id": "14b91021baa02951",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Drawings/Drawing 2026-05-27 12.52.43.excalidraw.md"
+                "file": "Basics/Deep Learning.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-05-27 12.52.43.excalidraw"
+              "icon": "lucide-file",
+              "title": "Deep Learning"
             }
           }
         ],
@@ -214,8 +216,9 @@
   },
   "active": "14b91021baa02951",
   "lastOpenFiles": [
+    "Drawings/dl-1idraw.md",
+    "Drawings/dl-1idraw.svg",
     "Basics/Deep Learning.md",
-    "Drawings/Drawing 2026-05-27 12.52.43.excalidraw.md",
     "Drawings",
     "Basics",
     "Deep-Learning/New Section 1.one",
@@ -249,7 +252,6 @@
     "week-2/Analysis of Algorithms.md",
     "Sorting/Selection Sort.md",
     "Sorting/Insertion Sort.md",
-    "Sorting/Bubble Sort.md",
     "attachments/Pasted image 20260422135507.png",
     "attachments/Pasted image 20260422133328.png",
     "Drawing 2026-04-14 20.31.33.excalidraw.svg",
@@ -259,7 +261,6 @@
     "attachments/Pasted image 20260308172048.png",
     "attachments/Pasted image 20260308171243.png",
     "Drawings/wowDiagrmas/Drawing 2026-03-05 07.01.35.excalidraw.svg",
-    "attachments/Pasted image 20260304155513.png",
     "Untitled.canvas"
   ]
 }

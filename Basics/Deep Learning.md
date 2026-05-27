@@ -20,3 +20,23 @@ Deep Learning lets the computer learn these patterns by showing it **thousands o
 After seeing enough examples, it starts recognizing cats on its own.
 
 That learning process is Deep Learning.
+
+![[dl-1idraw.svg]]
+
+
+##### Why is it Called “Deep”?
+
+Because the neural network has many **layers**.
+
+A simple neural network:
+
+```
+Input → Hidden Layer → Output
+```
+
+A deep neural network:
+
+```
+Input → Hidden Layer → Hidden Layer → Hidden Layer → Output
+```
+
