@@ -11,13 +11,30 @@
             "id": "547274fbbe240b60",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Basics/Deep Learning.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Deep Learning"
+            }
+          },
+          {
+            "id": "14b91021baa02951",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Drawings/Drawing 2026-05-27 12.52.43.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-05-27 12.52.43.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,8 +212,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "aef3ca45d6106d97",
+  "active": "14b91021baa02951",
   "lastOpenFiles": [
+    "Basics/Deep Learning.md",
+    "Drawings/Drawing 2026-05-27 12.52.43.excalidraw.md",
+    "Drawings",
+    "Basics",
     "Deep-Learning/New Section 1.one",
     "Deep-Learning/Open Notebook.onetoc2",
     "Deep-Learning",
@@ -214,10 +235,7 @@
     "Linear-Algebra/Material",
     "Linear-Algebra/Lectures",
     "Linear-Algebra/Diagram",
-    "Linear-Algebra",
     "Git hub setup.md",
-    "GATE-Syllabus.pdf",
-    "Books/Maths-2/M2_LINEARALGEBRA.pdf",
     "week-4/cycle Detection.md",
     "week-4/Application of BFS and DFS.md",
     "week-4/Important - formulas.md",
@@ -232,7 +250,6 @@
     "Sorting/Selection Sort.md",
     "Sorting/Insertion Sort.md",
     "Sorting/Bubble Sort.md",
-    "Linked List/Linked-List.md",
     "attachments/Pasted image 20260422135507.png",
     "attachments/Pasted image 20260422133328.png",
     "Drawing 2026-04-14 20.31.33.excalidraw.svg",
