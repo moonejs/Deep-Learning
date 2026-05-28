@@ -41,3 +41,5 @@ Input → Hidden Layer → Hidden Layer → Hidden Layer → Output
 ```
 
 ---
+![[Pasted image 20260528171527.png]]
+
